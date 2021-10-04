@@ -82,7 +82,7 @@
         </dependencies>
     </dependencyManagement>
     <distributionManagement>
-        <repositories>
+        <repository>
             <id>nexus</id>
             <name>declarative-releases></name>
             <url>http://13.232.225.112:8082/repository/declarative-release/</url>
@@ -90,7 +90,7 @@
               <id>nexus</id>
             <name>declarative-snapshot</name>
             <url>http://13.232.225.112:8082/repository/declarative-snapshot/</url>
-        </repositories>
+        </repository>
     </distributionManagement>
     <dependencies>
         <dependency>
