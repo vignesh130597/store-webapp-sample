@@ -19,8 +19,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <!-- <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target> -->
         <sonar.host.url>http://65.0.19.23:9000/</sonar.host.url>
         <sonar.login>462bd4a6bf536ec068deadc3a0100c1a79d185bb</sonar.login>
         <hibernate.version>5.2.10.Final</hibernate.version>
