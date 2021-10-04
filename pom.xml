@@ -92,7 +92,7 @@
               <id>nexus</id>
             <name>declarative-snapshot</name>
             <url>http://13.232.225.112:8082/repository/declarative-snapshot/</url>
-        <snapshotRepository>
+        </snapshotRepository>
     </distributionManagement>
     <dependencies>
         <dependency>
